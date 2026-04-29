@@ -1,0 +1,14 @@
+{
+  "name": "hospitalappointmentbookingsystemreact",
+  "version": "1.0.0",
+  "description": "The **Hospital Appointment Booking System** is a full-stack web application designed to streamline the process of scheduling and managing medical appointments. It provides an intuitive interface for patients to book appointments and for hospital staff to manage doctors, patients, and appointment schedules efficiently.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run dev --prefix vite-project",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
