@@ -133,5 +133,3 @@ The React frontend (`fetch` or `axios`) communicates directly with the Spring Bo
 
 ---
 
-## 📄 License
-This project is open-source and available under the MIT License.
